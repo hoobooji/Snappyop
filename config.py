@@ -9,13 +9,13 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7944150224:AAGmp9aTACCqhH3KZdM9O6muk6OQTf8pIRo")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7932946157:AAFvMk5qt082jZnvglXOMPMSu_hQL3737Gw")
 
 #Your API ID from my.telegram.org
-API_ID = int(os.environ.get("API_ID", "25138082"))
+API_ID = int(os.environ.get("API_ID", "28560745"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "f05318b589a4fa1d24649b8a5e687c24")
+API_HASH = os.environ.get("API_HASH", "958bcbe1a41fbff4575bfcc8fac926d2")
 
 #Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002136935463"))
